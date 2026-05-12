@@ -1,0 +1,9 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Marshmallow==1.2.1
+marshmallow-sqlalchemy==1.0.0
+Flask-Migrate==4.0.7
+Flask-Limiter==3.8.0
+Flask-Caching==2.3.0
+python-jose==3.3.0
+Werkzeug==3.0.3
